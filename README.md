@@ -1,4 +1,4 @@
-# ST3G01M4G3 By Simone Gentili, aka steghydev.
+# Stegoimage
 To use the script in encoding mode use:
     python stegoimage_script.py --encode [text or path_to_text] [path_to_source_img] [path_to_embedded_img]
 
