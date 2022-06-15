@@ -1,5 +1,5 @@
 '''
-@author: Simone Gentili
+@author: Simone Gentili 
 '''
 from operator import truediv
 import sys as s
