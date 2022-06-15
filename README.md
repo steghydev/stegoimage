@@ -1,4 +1,4 @@
-# ST3G01M4G3
+# ST3G01M4G3 By Simone Gentili, aka steghydev.
 To use the script in encoding mode use:
     python stegoimage_script.py --encode [text or path_to_text] [path_to_source_img] [path_to_embedded_img]
 
@@ -19,4 +19,5 @@ The characters to embed are distributed equally over the whole image by calculat
 The "step" has value: s = (w * h - 17) // t ; where t = number of characters of the input text.
 Each pixel, starting from the coordinates (0,17) of the image matrix, is written every s positions in the matrix.
 
-      
+--------------------------------------------------------------------------------------------------------------------------
+For info and suggestions contact me here: 78switching91@protonmail.com
