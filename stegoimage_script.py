@@ -275,7 +275,7 @@ def getText(text):
         with open(text,mode = "r") as file:
             text = file.read()
     textList = [s+' ' for s in text.lower().split()]
-    textList[-1] = textList[-1][:-1] #tolgo lo spazio all'ultimo carattere
+    textList[-1] = textList[-1][:-1] 
     return textList, text
 
 def encode(textPath, sourceImg, destImg):
